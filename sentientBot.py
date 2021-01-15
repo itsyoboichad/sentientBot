@@ -78,4 +78,4 @@ async def enroll(ctx, arg):
             await ctx.author.add_roles(chosenRole)
             await ctx.send("You have been placed in the class: " + role)
 
-client.run('NzcyNjQzMzM2MzUxNjQ1NzQ0.X59qLg.TTzTJTedu2kNP7hyQFsBNrNYtAU')
+client.run('ThisIsAToken')
